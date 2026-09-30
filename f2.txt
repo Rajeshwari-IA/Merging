@@ -1,2 +1,3 @@
 f2.txt of master
 this is merge
+update in release 
