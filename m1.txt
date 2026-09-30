@@ -1,3 +1,4 @@
 m1 file is created in feature branch
 fast forward 
 ort stratergy
+update in release 
